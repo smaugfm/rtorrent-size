@@ -6,7 +6,7 @@ torrents (still downloading and already downloaded) and prints it to the stdout.
 Installation
 
 ```shell
-go install github.com/smaugfm/rtorrent-size@master
+go install github.com/smaugfm/rtorrent-size@latest
 ```
 
 Usage:
